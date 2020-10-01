@@ -1,4 +1,3 @@
-Hello Earth
-Bla bla bla bla
-Dies ist eine neue Zeile
-Dies ist eine weitere neue Zeile
+Hello Venus!
+Bla bla bla
+Bitte keine neuen Zeilen.
