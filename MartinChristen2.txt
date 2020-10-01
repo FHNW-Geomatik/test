@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello Venus!
 Bla bla bla
 Bitte keine neuen Zeilen.
+=======
+Hello World
+Bla bla bla
+>>>>>>> parent of 1aa873f... Finished perfect code
 =======
 Hello World
 Bla bla bla
